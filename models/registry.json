@@ -1,0 +1,31 @@
+{
+  "champion": {
+    "path": "models\\model_2026-07-16T11-44-42.353609+00-00.pkl",
+    "promoted_at": "2026-07-16T11:44:42.353609+00:00",
+    "score": {
+      "total_return_pct": -1.4,
+      "final_equity": 9860.2,
+      "sharpe_ratio_annualized": -3.467,
+      "max_drawdown_pct": -7.71,
+      "num_trades": 0,
+      "win_rate_pct": 0.0,
+      "avg_fold_directional_accuracy_pct": null
+    }
+  },
+  "history": [
+    {
+      "timestamp": "2026-07-16T11:44:42.353609+00:00",
+      "challenger_score": {
+        "total_return_pct": -1.4,
+        "final_equity": 9860.2,
+        "sharpe_ratio_annualized": -3.467,
+        "max_drawdown_pct": -7.71,
+        "num_trades": 0,
+        "win_rate_pct": 0.0,
+        "avg_fold_directional_accuracy_pct": null
+      },
+      "champion_score": null,
+      "promoted": true
+    }
+  ]
+}
